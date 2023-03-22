@@ -1,5 +1,6 @@
 # 使用 ChatGPT 製作一個 GoogleTest測試C語言程式範例
 **除了這段粗體字, 其他的內容, 包含 C, CPP, README.md, 都是 ChatGPT 寫的**
+
 本專案旨在使用GoogleTest框架編寫測試，測試一個包含兩個函式的簡單C語言程式。兩個函式分別為"switch_example"和"while_loop_example"，用於示範"switch"和"while"的用法。此測試程式旨在達到100%的分支覆蓋率和行覆蓋率。
 
 ## 目錄結構
